@@ -7,7 +7,7 @@ reading-notes
 - To keep on growing in life you have to keep on learning from things that happen around you.
 - Nothing is impossible with hard work.
 
-# My contact list
+# My contact list.
 #### github link. [github](https://github.com/rejordon93)
 #### twiter link. [twiter](https://twitter.com/?lang=en)
 
