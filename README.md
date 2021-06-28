@@ -5,6 +5,6 @@ reading-notes
 - idea2
 - idea3 
 
-- **This issome bold text**
+- ** This is 
 
-- [Lord of the Rings]https://www.theonering.com/
+### Growth Mindset
