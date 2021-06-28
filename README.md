@@ -5,9 +5,9 @@ reading-notes
 - idea2
 - idea3 
 
-- **This is**
 
 ### Growth Mindset
 
-# Growth Mindet is to always push yourself forward
-- To keep on growing in life you have to keep on learning from things that happen around you. Many
+- Growth Mindet is to always push yourself forward
+- To keep on growing in life you have to keep on learning from things that happen around you.
+- when you feel stuck keep moving fowerd 
