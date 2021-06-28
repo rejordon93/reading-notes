@@ -1,6 +1,8 @@
 reading-notes
 
 ## My name is Ethan Hello Everyone.
+
+
 ### Growth Mindset
 
 - Growth Mindet is to always push yourself forward.
@@ -11,7 +13,6 @@ reading-notes
 #### github link. [github](https://github.com/rejordon93)
 #### twiter link. [twiter](https://twitter.com/?lang=en)
 
-## 
 
 - ## table of contents
 - [Reading class 1](markdown.md)
