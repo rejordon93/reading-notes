@@ -1,7 +1,7 @@
 reading-notes
 
 ## My name is Ethan Hello Everyone.
-Hello everyone This is Ethan  from Seattle i am operating on a MacBook air i am running Big sur v11.4 my coding knowledge is new i know the basics of HTML and CSS With some JS I’m excited to be going through Code Fellows
+Hello everyone This is Ethan  from Seattle WA I am new to coding this  is my first github site i have a few  basics of HTML and CSS With some JS I’m excited to be going through Code Fellows.
 
 
 ### Growth Mindset
