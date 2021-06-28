@@ -14,4 +14,4 @@ reading-notes
 ## 
 
 - ## table of contents
-- [Reading class1](markdown.md)
+- [Reading class 1](markdown.md)
