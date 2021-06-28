@@ -5,6 +5,6 @@ reading-notes
 - idea2
 - idea3 
 
-- ** This is 
+- **This is**
 
 ### Growth Mindset
