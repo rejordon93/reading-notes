@@ -8,4 +8,6 @@ reading-notes
 - **This is**
 
 ### Growth Mindset
+
 # Growth Mindet is to always push yourself forward
+- To keep on growing in life you have to keep on learning from things that happen around you. Many
