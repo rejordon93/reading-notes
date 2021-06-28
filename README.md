@@ -1,6 +1,7 @@
 reading-notes
 
 ## My name is Ethan Hello Everyone.
+#this is a link to my [github]
  
 ### Growth Mindset
 
