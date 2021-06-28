@@ -5,7 +5,7 @@ reading-notes
 
 - Growth Mindet is to always push yourself forward.
 - To keep on growing in life you have to keep on learning from things that happen around you.
-- Nothing is impossible.
+- Nothing is impossible with hard work.
 
 # My contact list
 #### github link. [github](https://github.com/rejordon93)
