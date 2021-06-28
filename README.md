@@ -8,6 +8,6 @@ reading-notes
 - when you feel stuck keep moving fowerd 
 
 # My contact list
-#### this is a link to my. [github](https://github.com/rejordon93)
-#### twiter link
+#### github link. [github](https://github.com/rejordon93)
+#### twiter link. [twiter](https://twitter.com/?lang=en)
 
