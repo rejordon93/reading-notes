@@ -8,6 +8,8 @@ reading-notes
 - when you feel stuck keep moving fowerd 
 
 ## bio 
+This is the first line.  
+And this is the second line.
 
 # My contact list
 #### github link. [github](https://github.com/rejordon93)
