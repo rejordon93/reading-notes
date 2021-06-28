@@ -8,3 +8,4 @@ reading-notes
 - **This is**
 
 ### Growth Mindset
+# Growth Mindet is to always push yourself forward
